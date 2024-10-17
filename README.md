@@ -1,8 +1,3 @@
-# React + Vite
+# HEYA a blog website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Heya is a dynamic web application built using React that offers users an interactive platform to explore and contribute to a diverse range of blogs and articles. Users can not only browse through informative and engaging content but also create and publish their own articles, fostering a collaborative space for knowledge sharing and creativity
